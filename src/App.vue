@@ -138,7 +138,8 @@ import BenefitSection from './components/BenefitSection.vue'
               </p>
             </div>
             <div class="flex gap-4">
-              <input class="outline-none flex-grow text-white text-sm font-medium bg-transparent border-[#6E7079] px-7 py-2 border-2"
+              <input
+                class="outline-none flex-grow text-white text-sm font-medium bg-transparent border-[#6E7079] px-7 py-2 border-2"
                 type="text" placeholder="Enter your email address">
               <button
                 class="text-white text-sm font-medium bg-[#4B4D5C] px-7 py-2 border-2 border-transparent transition-colors duration-300 ease-out hover:bg-[#999BA3]">
