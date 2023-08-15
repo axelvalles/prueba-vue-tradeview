@@ -1,4 +1,4 @@
-<script setup></script>
+<script setup lang="ts"></script>
 <template>
     <header class="z-10 fixed top-0">
         <section class="w-full h-[80px] bg-secondary grid grid-cols-12 items-center px-6">
